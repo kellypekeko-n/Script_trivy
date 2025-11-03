@@ -1,0 +1,19 @@
+# Dépendances pour l'analyseur Trivy + NVD
+# Installation: pip install -r requirements.txt
+
+# Traitement de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Visualisations
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Génération de rapports PDF
+reportlab>=4.0.0
+
+# Utilitaires
+python-dateutil>=2.8.2
