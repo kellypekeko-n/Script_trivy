@@ -279,4 +279,5 @@ Script_trivy/
 
 Le script détecte automatiquement **n'importe quel fichier .csv** dans le dossier (sauf ceux dans `output/`).
 #   c l o u d _ v u l _ m a n a g e m e n t  
+ #   c l o u d _ v u l _ m a n a g e m e n t  
  
